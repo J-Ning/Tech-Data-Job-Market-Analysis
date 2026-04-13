@@ -147,3 +147,11 @@ plots/skills_before_after_normalization.png
 
 Jenny Fu
 Mathematics–Computer Science, UC San Diego
+Nishka Vaghela
+Computer Science and Bioinformatics, UC San Diego
+Renee Li 
+Mathematics–Computer Science, UC San Diego
+Niharika Sapre
+Cognitive Science, UC San Diego
+Eric Badilla
+Mathematics–Computer Science, UC San Diego
